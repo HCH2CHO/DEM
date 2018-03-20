@@ -1,0 +1,8 @@
+﻿  MyTestView.cpp
+c:\users\hcho\desktop\vs2012\practice work\dem\mytest\mytest\mytestview.cpp(242): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\hcho\desktop\vs2012\practice work\dem\mytest\mytest\mytestview.cpp(244): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\hcho\desktop\vs2012\practice work\dem\mytest\mytest\mytestview.cpp(246): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\hcho\desktop\vs2012\practice work\dem\mytest\mytest\mytestview.cpp(248): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\hcho\desktop\vs2012\practice work\dem\mytest\mytest\mytestview.cpp(452): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\hcho\desktop\vs2012\practice work\dem\mytest\mytest\mytestview.cpp(453): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  MyTest.vcxproj -> C:\Users\HCHO\Desktop\VS2012\practice work\DEM\MyTest\Debug\MyTest.exe
