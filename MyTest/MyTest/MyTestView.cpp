@@ -190,7 +190,7 @@ void CMyTestView::OnDrawline()
 void CMyTestView::OnReadDEM()
 {
 	// TODO: 在此添加命令处理程序代码
-	OpenFile("dem.dem");//使用相对路径,当前文件夹。与.vcproj文件在同一文件夹下。与exe文件在同一文件夹下
+	OpenFile("dem.dem");//使用相对路径,当前文件夹。与.vcxproj文件在同一文件夹下。与exe文件在同一文件夹下
 
 }
 
